@@ -1,0 +1,1 @@
+print("The total expenditure is $" + str(150 + 200) + " for the month.")
